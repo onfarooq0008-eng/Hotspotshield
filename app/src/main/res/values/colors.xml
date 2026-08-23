@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand colors: a deep navy header/hero + a vivid "shield" green.
+         These stay the same in light and dark mode (see values-night/colors.xml);
+         only the body background/cards shift between the two. -->
+    <color name="primary">#111A2E</color>
+    <color name="primaryDark">#060A14</color>
+    <color name="accent">#22D07A</color>
+    <color name="background">#F4F6FA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#161B26</color>
+    <color name="gray">#6B7280</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="rowBackground">#EFF2F8</color>
+    <color name="rowBackgroundConnected">#E3F8ED</color>
+    <color name="searchBorder">#E2E6EE</color>
+    <color name="divider">#E7EAF0</color>
+    <color name="heroSubtitle">#AEB8D6</color>
+    <color name="statusOnline">#16A34A</color>
+    <color name="statusOffline">#DC2626</color>
+    <color name="statusChecking">#6B7280</color>
+    <color name="danger">#DC2626</color>
+</resources>
+

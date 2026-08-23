@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- primary/primaryDark/accent stay the same brand colors in dark mode -->
+    <color name="primary">#111A2E</color>
+    <color name="primaryDark">#060A14</color>
+    <color name="accent">#22D07A</color>
+
+    <!-- Hotspot-Shield-style near-black navy body -->
+    <color name="background">#0B0F1A</color>
+    <color name="white">#FFFFFF</color>
+    <!-- "black" is used as the main text color throughout the app; invert it
+         so text stays readable against the dark background/cards below. -->
+    <color name="black">#F2F4F8</color>
+    <color name="gray">#8A93A6</color>
+    <color name="cardBackground">#131A2B</color>
+    <color name="rowBackground">#161E33</color>
+    <color name="rowBackgroundConnected">#123322</color>
+    <color name="searchBorder">#232B40</color>
+    <color name="divider">#1E263B</color>
+    <color name="heroSubtitle">#AEB8D6</color>
+    <color name="statusOnline">#3CE08A</color>
+    <color name="statusOffline">#FF6B6B</color>
+    <color name="statusChecking">#8A93A6</color>
+    <color name="danger">#FF6B6B</color>
+</resources>
